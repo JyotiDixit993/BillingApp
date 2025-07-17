@@ -9,7 +9,7 @@ function App() {
     <>
       <Navigation></Navigation>
       <div className='maindiv'>
-      
+      <div style={{color:'white'}}>Welcome Jyoti</div>
         {/* <div className='maindiv'>Welcome</div> */}
 
 
