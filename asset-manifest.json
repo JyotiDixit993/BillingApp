@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/BillingApp/static/css/main.62173eb0.css",
+    "main.js": "/BillingApp/static/js/main.3534d678.js",
+    "static/js/453.07e693d7.chunk.js": "/BillingApp/static/js/453.07e693d7.chunk.js",
+    "static/media/nature.jpg": "/BillingApp/static/media/nature.f8d64da15ce8147b1292.jpg",
+    "index.html": "/BillingApp/index.html",
+    "main.62173eb0.css.map": "/BillingApp/static/css/main.62173eb0.css.map",
+    "main.3534d678.js.map": "/BillingApp/static/js/main.3534d678.js.map",
+    "453.07e693d7.chunk.js.map": "/BillingApp/static/js/453.07e693d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62173eb0.css",
+    "static/js/main.3534d678.js"
+  ]
+}
